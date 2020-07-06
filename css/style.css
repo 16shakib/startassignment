@@ -1,0 +1,119 @@
+img{
+    max-width: 100%
+}
+body{}
+
+section{}
+
+.navbar-section{
+
+}
+
+.navbar-brand{
+    font-weight: 900;
+    font-size: 30px;
+}
+
+
+
+.banner-section{
+        background-color: #1abc9c;
+            height: 650px;
+}
+
+.banner-section img{
+    max-width: 25%;
+    display: block;
+    margin: auto;
+    padding-top: 100px;
+}
+
+.banner-section h1{
+        text-align: center;
+    color: white;
+    font-weight: 900;
+    letter-spacing: 2px;
+    font-size: 65px;
+    padding-top: 30px;
+}
+
+
+.banner-section span{
+    height: 5px;
+    width: 115px;
+    display: block;
+    background-color: white;
+    padding: 0px auto 20px;
+    /* margin: auto; */
+    margin-left: 85px;
+}
+
+.banner-section h2{
+    /* margin: auto; */
+    text-align: center;
+    color: white;
+}
+
+.banner-section p{
+    font-size: 30px;
+    color: white;
+    /* margin: auto; */
+    text-align: center;
+}
+
+.portfolio-Section{
+        padding-bottom: 80px;
+}
+.portfolio-Section h1{
+    text-align: center;
+    padding: 20px;
+}
+
+.about-Section{
+     background-color: #1abc9c;
+     /* max-height: 500px; */
+     /* margin: 57px; */
+     padding-top: 60px;
+     padding-bottom: 60px;
+}
+.about-Section h1{
+    text-align: center;
+    padding: 20px;
+}
+
+.about-Section p{}
+
+
+
+.contact-me-Section{}
+.contact-me-Section h1{
+    text-align: center;
+    padding-top: 50px;
+}
+
+.footer-section{
+    padding: 90px;
+}
+.footer-section h3{
+    text-transform: uppercase;
+    color: white;
+    font-weight: 900;
+    text-align: center;
+}
+.footer-section p{
+    color: white;
+    font-size: 21px;
+    font-weight: 600;
+    text-align: center;
+}
+
+
+.copywrite-Section{}
+.copywrite-Section p{
+    text-align: center;
+    background-color: #232726;
+    color: white;
+    /* padding: 20px 0 0; */
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
